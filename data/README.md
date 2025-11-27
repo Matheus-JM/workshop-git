@@ -1,6 +1,6 @@
 # Data Directory
 
-This directory is used to store data files and generated visualizations.
+This directory is used to store data files and generated visualization.
 
 ## Contents
 
